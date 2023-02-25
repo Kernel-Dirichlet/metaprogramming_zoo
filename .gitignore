@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+**/unittests
+**/mapped_files
 *.py[cod]
 *$py.class
 
