@@ -10,7 +10,6 @@ of software abstraction. Often times, the performance boosts of low-level metapr
 
 As of 2/26/2023, this repository uses Python exclusively, but the bulk of future code will be written in Julia which has a similar syntax to Python but more features for both high and low level metaprogramming support. Bindings to other languages will be provided if sufficient interest in the project crosses a threshold. 
 
-In terms of features, this repository aims to have scripts which can dynamically  
 
 ### Object Dependency Inversion 
    - Performs dependency inversion between two classes A and B where B inherits from A. Here, an interface class C is created
